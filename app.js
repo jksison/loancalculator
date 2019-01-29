@@ -33,6 +33,6 @@ function calculateResults(e) {
    } else {
       console.log('Error');
    }
-console.log('hello');
+
    e.preventDefault();
 }
